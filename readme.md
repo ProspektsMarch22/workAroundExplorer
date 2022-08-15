@@ -20,4 +20,4 @@ All these functions are them called upon the main.js so it can execute it's job.
 
 ## Try it! 
 
-Clik on this [link]('https://prospektsmarch22.github.io/workAroundExplorer/') to try the web app
+Clik on this [link](https://prospektsmarch22.github.io/workAroundExplorer/) to try the web app
